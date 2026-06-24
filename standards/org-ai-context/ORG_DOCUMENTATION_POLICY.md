@@ -12,6 +12,7 @@
 3. Exports must be regenerated from latest source before external sharing.
 4. Text-to-border spacing and indentation must follow measurable rules.
 5. Typography must use fixed role mapping (font family, size, color by heading level).
+6. Pagination flow must enforce heading integrity (no orphan headings, keep-with-next behavior).
 
 ## Branding controls
 - Use approved logo variants only.
@@ -25,6 +26,8 @@
 - No inconsistent bullet or wrapped-line indentation.
 - No stale date/version metadata.
 - No unverified performance claims.
+- No headings stranded at page bottom.
+- No widow/orphan single-line paragraph splits.
 
 ## Typography controls
 - Define heading hierarchy with explicit font size and color pairs.

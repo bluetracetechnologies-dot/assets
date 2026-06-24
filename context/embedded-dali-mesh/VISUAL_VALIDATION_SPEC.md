@@ -100,7 +100,19 @@ Before export:
 - Reconfirm no symbol encoding artifacts.
 - Ensure source and export filenames match revision state.
 
-## 12) Pass/Fail Gate
+## 12) Pagination and Heading Flow Control
+- A heading must never appear as the last line of a page.
+- A heading must stay with following content (keep-with-next rule).
+- Minimum requirement under each heading on same page:
+  - at least 2 body lines, or
+  - at least 1 bullet item with wrapped continuation line.
+- If space is insufficient, move heading to the next page.
+- Avoid widow/orphan text in multi-line paragraphs:
+  - no single trailing line isolated at top of next page,
+  - no single opening line isolated at bottom of current page.
+- For dense sections, reserve a minimum vertical buffer before heading placement (recommended 18-24 px equivalent).
+
+## 13) Pass/Fail Gate
 A diagram fails release if any one condition is true:
 - Border-touching text exists.
 - Overlap/collision exists.
@@ -108,3 +120,5 @@ A diagram fails release if any one condition is true:
 - Metadata missing or stale.
 - Claims lack evidence basis.
 - Export contains encoding artifacts.
+- Heading appears at page bottom without following content.
+- Widow/orphan line condition is present.

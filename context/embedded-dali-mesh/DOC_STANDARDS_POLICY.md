@@ -36,6 +36,10 @@
    - Body text must remain smaller than heading text
 5. Heading color-size linkage must be consistent across the entire diagram set.
 6. Validate at both 100% and 125% zoom before release.
+7. Apply pagination quality rules:
+   - heading must not be stranded at page bottom,
+   - heading must keep with next content block,
+   - widow/orphan single-line splits are not allowed.
 
 ## Verification/evidence rules
 1. Any performance or compliance claim must be evidence traceable.
@@ -48,6 +52,7 @@
 3. Run release checklist before client sharing.
 4. Keep changelog entry for what changed and why.
 5. Release fails if border-touching text, overlap, inconsistent heading scale, or stale metadata is detected.
+6. Release fails if heading pagination is poor (orphan heading or widow/orphan text lines).
 
 ## AI tool continuity rules
 1. Every AI-assisted update must read:

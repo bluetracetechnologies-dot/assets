@@ -33,6 +33,12 @@
 - [ ] Heading color-size linkage is consistent across all diagrams in the set.
 - [ ] Text contrast is readable against background.
 
+## Pagination and Flow
+- [ ] No heading appears as the last line of a page.
+- [ ] Keep-with-next rule applied (heading stays with following content block).
+- [ ] At least 2 body lines (or equivalent bullet continuation) stay with heading on same page.
+- [ ] No widow/orphan single-line paragraph splits.
+
 ## Export Control
 - [ ] `.drawio` source saved first.
 - [ ] PNG/PDF exports regenerated from latest source.

@@ -10,6 +10,9 @@
 - [ ] Box padding validated (Top 14 px, Left 14 px, Right 14 px, Bottom 12 px minimum)
 - [ ] Bullet and wrapped-line indentation is consistent
 - [ ] Heading font size-color mapping is consistent across the set
+- [ ] No heading appears as the final line on a page
+- [ ] Keep-with-next applied for headings and immediate content
+- [ ] No widow/orphan single-line paragraph splits across page breaks
 - [ ] Standards claims linked to evidence
 - [ ] Source and export synchronized
 - [ ] Branding rules followed
