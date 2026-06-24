@@ -34,3 +34,7 @@
 - Keep heading color-size linkage consistent across all diagrams in a release set.
 - Keep body text smaller than heading text.
 - Maintain readable contrast for all headings and body text.
+
+## Update prevention controls
+- Enforce the project defect-prevention checklist in ORG_PROJECT_UPDATE_GUARDRAILS.md for every revision cycle.
+- Any newly discovered defect pattern must be appended to ORG_PROJECT_UPDATE_GUARDRAILS.md before release signoff.

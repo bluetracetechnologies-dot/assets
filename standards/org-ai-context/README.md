@@ -16,6 +16,7 @@ Ensure any AI assistant can continue work with full historical context, standard
 - ORG_DOCUMENTATION_POLICY.md
 - ORG_ISSUE_TAXONOMY.md
 - ORG_AI_BOOTSTRAP_PROMPT.md
+- ORG_PROJECT_UPDATE_GUARDRAILS.md
 - templates/ORG_SESSION_HANDOFF_TEMPLATE.md
 - templates/ORG_DOC_RELEASE_GATE.md
 
