@@ -1,0 +1,31 @@
+﻿Hello,
+
+I am applying for your project: BLE / Apple Find My / Google Find Hub / Hubble Network Expert Needed for Asset Tracking Prototype.
+
+I bring 15+ years of embedded systems experience across BLE firmware, low-power device behavior, RF-aware product bring-up, and production handover.
+
+Why I am a strong fit:
+- BLE beacon/tag firmware architecture, state-machine reliability, and battery-focused behavior
+- Practical feasibility guidance for Apple Find My, Google Find Hub, and crowd-location pathways
+- Prototype-first validation approach with measurable checkpoints and risk visibility
+- Clear documentation and decision logs for fast iteration
+
+Proposed engagement model:
+- Contract Type: Hourly
+- Bid Rate: USD 25 per hour
+- Project Duration: 1 to 3 months
+
+Estimated delivery window: 6 to 10 weeks.
+
+Execution flow:
+1) Discovery and option mapping for network approach
+2) Prototype firmware baseline for BLE tag behavior
+3) Feasibility validation and integration recommendations
+4) Demo package, evidence, and handover notes
+
+I can execute this as Bluetrace Technologies Pvt. Ltd. with weekly updates, milestone evidence, and clean final documentation.
+
+Thanks,
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+

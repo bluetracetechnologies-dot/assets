@@ -1,0 +1,39 @@
+JOB REFERENCE
+
+Job Title:
+BLE / Apple Find My / Google Find Hub / Hubble Network Expert Needed for Asset Tracking Prototype
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Prototyping
+
+Contract Type:
+Hourly
+
+Rate Used in Proposal:
+USD 25/hr
+
+Project Length:
+1 to 3 months
+
+Core Scope:
+- BLE beacon/tag development
+- Apple Find My accessory pathway exploration
+- Google Find Hub compatibility exploration
+- Crowd-based location network feasibility
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (cover letter and submission instructions)
+
+Prepared by:
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
