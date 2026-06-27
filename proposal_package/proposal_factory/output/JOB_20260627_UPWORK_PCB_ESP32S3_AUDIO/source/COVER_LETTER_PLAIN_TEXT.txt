@@ -1,0 +1,30 @@
+﻿Hello,
+
+I am applying for your project: PCB Designer - Adapt ESP32-S3 Audio Dev Board into Custom Board.
+
+I bring 15+ years of embedded systems and hardware bring-up experience across ESP32 platforms, schematic review, PCB layout refinement, and production handover.
+
+Why I am a strong fit:
+- ESP32-S3 board adaptation from reference design into custom manufacturable PCB
+- Structured treatment of your delete, keep, modify, and add change-list
+- Strong focus on audio path integrity, power routing, grounding, and Wi-Fi coexistence
+- Practical DFM and handoff readiness for manufacturing and test
+
+Proposed engagement model:
+- Contract Type: Hourly
+- Bid Rate: USD 25 per hour
+- Capacity: less than 30 hours per week
+- Expected project duration: less than one month
+
+Execution plan:
+1) Review the full technical package and map all requested changes
+2) Adapt schematic with clear rationale for each modification
+3) Update PCB layout for signal integrity, DFM, and assembly practicality
+4) Deliver final design package with review notes and handover checklist
+
+I can execute this as Bluetrace Technologies Pvt. Ltd. with weekly updates, milestone evidence, and clean final documentation.
+
+Thanks,
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+

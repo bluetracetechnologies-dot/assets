@@ -1,0 +1,39 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- PCB Designer: Adapt ESP32-S3 Audio Dev Board into Custom Board
+- Contract Type: Hourly
+- Hourly Rate: USD 25 per hour
+- Weekly Limit: Less than 30 hrs/week
+- Duration: Less than a month
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure hourly proposal fields in Upwork:
+- Set hourly rate to USD 25
+- Keep weekly capacity less than 30 hrs/week
+- Keep duration as less than a month
+- Leave rate increase option disabled unless requested by client
+
+3) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+4) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports
+- Supporting credentials if needed
+
+5) Final quality gate:
+- Contract type is hourly
+- Hourly rate matches proposal text (USD 25/hr)
+- Weekly limit and duration match job post
+- Duration matches job post
+- Role and scope wording align with job
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: Abdul Raheem Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-27
+
