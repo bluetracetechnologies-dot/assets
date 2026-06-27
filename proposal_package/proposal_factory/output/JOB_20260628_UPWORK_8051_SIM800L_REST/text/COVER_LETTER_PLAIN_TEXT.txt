@@ -1,0 +1,32 @@
+﻿Hello,
+
+I am applying for your project: Embedded Firmware Engineer (8051 / Keil / SIM800L GPRS REST API).
+
+I bring 15+ years of embedded systems experience across 8051 firmware, Keil-C development, modem-driven protocol stacks, and field-ready debugging.
+
+Why I am a strong fit:
+- Strong 8051 and Keil-C maintenance experience on resource-constrained legacy codebases
+- Practical SIM800L AT command integration with reliable state-machine behavior
+- Robust GPRS/HTTP request handling with timeout, retry, and recovery strategy
+- Clear integration notes, test evidence, and maintainable handover
+
+Proposed engagement model:
+- Contract Type: Hourly
+- Bid Rate: USD 25 per hour
+- Weekly Capacity: less than 30 hours per week
+- Project Duration: less than a month
+
+Estimated delivery window: 2 to 4 weeks.
+
+Execution flow:
+1) Review existing firmware architecture and current SIM800L flow
+2) Integrate GPRS and REST request sequence safely into existing state machine
+3) Add retry/timeout/error-recovery logic and stabilize behavior
+4) Deliver test logs, integration notes, and final handover
+
+I can execute this as Bluetrace Technologies Pvt. Ltd. with weekly updates, milestone evidence, and clean final documentation.
+
+Thanks,
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+

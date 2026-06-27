@@ -1,0 +1,38 @@
+JOB REFERENCE
+
+Job Title:
+Embedded Firmware Engineer (8051 / Keil / SIM800L GPRS REST API)
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Electrical Engineering
+
+Contract Type:
+Hourly
+
+Rate Used in Proposal:
+USD 25/hr
+
+Project Length:
+Less than a month
+
+Core Scope:
+- Add GPRS REST API into existing Keil-C firmware on AT89S52 (8051)
+- Maintain existing SMS and voice-call behavior via SIM800L
+- Implement robust HTTP request flow with retry and timeout handling
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (cover letter and submission instructions)
+
+Prepared by:
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
