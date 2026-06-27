@@ -1,0 +1,44 @@
+PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- Senior Embedded Systems Engineer
+- Fixed Price: USD 2500
+- Duration: 1 to 3 months
+
+1) Keep COVER_LETTER_PLAIN_TEXT.txt in plain text format and paste directly into the Upwork cover letter field.
+   First line should clearly reference the job scope: ESP32 wearable, PCB/PCBA, NFC.
+
+2) Upwork milestone setup (4 milestones):
+   - Milestone 1: Requirements freeze, architecture, and risk plan - USD 500
+   - Milestone 2: ESP32 firmware core plus PCB/PCBA bring-up support - USD 900
+   - Milestone 3: NFC integration, optimization, and system validation - USD 700
+   - Milestone 4: Production package, test docs, and final handover - USD 400
+
+3) Set project duration to: 1 to 3 months
+
+4) Convert these markdown files to PDF:
+   - PROJECT_SUMMARY.md
+   - EXPERIENCE_HIGHLIGHTS.md
+   - TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+5) Place converted files in proposal_package/pdfs with these names:
+   - PROJECT_SUMMARY.pdf
+   - EXPERIENCE_HIGHLIGHTS.pdf
+   - TECHNICAL_REQUIREMENTS_CHECKLIST.pdf
+
+6) Attach to proposal:
+   - Three PDF files from proposal_package/pdfs
+   - Architecture diagram exports (PNG or PDF) from draw.io
+   - Relevant company certificates from certificates folder
+
+7) Final quality check before submission:
+   - Job title and scope wording matches posting
+   - Budget and milestone amounts match exactly (total USD 2500)
+   - Duration is set to 1 to 3 months
+   - Company and author naming consistency
+   - No placeholder text remains
+
+Prepared by:
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-27
