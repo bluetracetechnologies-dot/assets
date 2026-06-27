@@ -1,0 +1,35 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- Senior Embedded Systems Engineer
+- Budget: USD 2500
+- Duration: 1 to 3 months
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: Requirements freeze, architecture, and risk plan - USD 500 - 1.5 weeks
+- Milestone 2: ESP32 firmware core plus PCB/PCBA bring-up support - USD 900 - 3 weeks
+- Milestone 3: NFC integration, optimization, and system validation - USD 700 - 2.5 weeks
+- Milestone 4: Production package, test docs, and final handover - USD 400 - 1.5 weeks
+
+3) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+4) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports
+- Supporting credentials if needed
+
+5) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording align with job
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: Abdul Raheem Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-27
+

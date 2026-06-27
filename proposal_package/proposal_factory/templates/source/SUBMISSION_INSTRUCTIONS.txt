@@ -1,0 +1,34 @@
+PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- {{JOB_TITLE}}
+- Budget: USD {{BUDGET_USD}}
+- Duration: {{DURATION_LABEL}}
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: {{M1_DESC}} - USD {{M1_AMT}} - {{M1_TIME}}
+- Milestone 2: {{M2_DESC}} - USD {{M2_AMT}} - {{M2_TIME}}
+- Milestone 3: {{M3_DESC}} - USD {{M3_AMT}} - {{M3_TIME}}
+- Milestone 4: {{M4_DESC}} - USD {{M4_AMT}} - {{M4_TIME}}
+
+3) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+4) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports
+- Supporting credentials if needed
+
+5) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording align with job
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: {{PREPARED_BY}}
+Company: {{COMPANY_NAME}}
+Date: {{DATE}}

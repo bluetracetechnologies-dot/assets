@@ -1,0 +1,26 @@
+﻿Hello,
+
+I am applying for your project: Senior Embedded Systems Engineer - ESP32 Wearable Device with PCB/PCBA and NFC.
+
+I bring 15+ years of embedded systems experience across ESP32 firmware, FreeRTOS, low-power design, hardware-software co-debug, and production handover.
+
+Why I am a strong fit:
+- ESP32 firmware architecture, RTOS task design, and robust implementation
+- Hardware-software validation for Wearable Device execution
+- Practical integration focus on NFC integration, user-friendly firmware behavior, efficient operation
+- Transparent milestone-based delivery and technical reporting
+
+Proposed fixed-price plan (USD 2500, 1 to 3 months):
+- Milestone 1: Requirements freeze, architecture, and risk plan - USD 500 - 1.5 weeks
+- Milestone 2: ESP32 firmware core plus PCB/PCBA bring-up support - USD 900 - 3 weeks
+- Milestone 3: NFC integration, optimization, and system validation - USD 700 - 2.5 weeks
+- Milestone 4: Production package, test docs, and final handover - USD 400 - 1.5 weeks
+
+Estimated delivery window: 7 to 9 weeks.
+
+I can execute this as Bluetrace Technologies Pvt. Ltd. with weekly updates, milestone evidence, and clean final documentation.
+
+Thanks,
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+

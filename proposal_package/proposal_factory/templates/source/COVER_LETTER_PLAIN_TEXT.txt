@@ -1,0 +1,25 @@
+Hello,
+
+I am applying for your project: {{PROJECT_NAME}}.
+
+I bring 15+ years of embedded systems experience across {{PLATFORM}} firmware, FreeRTOS, low-power design, hardware-software co-debug, and production handover.
+
+Why I am a strong fit:
+- {{PLATFORM}} firmware architecture, RTOS task design, and robust implementation
+- Hardware-software validation for {{PROJECT_DOMAIN}} execution
+- Practical integration focus on {{KEY_FEATURES}}
+- Transparent milestone-based delivery and technical reporting
+
+Proposed fixed-price plan (USD {{BUDGET_USD}}, {{DURATION_LABEL}}):
+- Milestone 1: {{M1_DESC}} - USD {{M1_AMT}} - {{M1_TIME}}
+- Milestone 2: {{M2_DESC}} - USD {{M2_AMT}} - {{M2_TIME}}
+- Milestone 3: {{M3_DESC}} - USD {{M3_AMT}} - {{M3_TIME}}
+- Milestone 4: {{M4_DESC}} - USD {{M4_AMT}} - {{M4_TIME}}
+
+Estimated delivery window: {{PLANNED_TIMELINE}}.
+
+I can execute this as {{COMPANY_NAME}} with weekly updates, milestone evidence, and clean final documentation.
+
+Thanks,
+{{PREPARED_BY}}
+{{COMPANY_NAME}}
