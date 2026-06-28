@@ -1,0 +1,45 @@
+JOB REFERENCE
+
+Job Title:
+PCB Designer for IoT Sensor Board
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Electronic Engineering / PCB Design
+
+Contract Type:
+Hourly
+
+Bid Rate:
+USD 25/hr
+
+Project Length:
+1 to 3 months
+
+Core Scope:
+- 4-layer circular PCB for IoT sensor board
+- nRF52840 and LoRa integration
+- Ultra-low-power mixed-signal routing
+- JLCPCB manufacturability and DFM/DFT review
+- BOM and footprint validation
+
+Proposal Positioning:
+- Submit via Bluetrace Technologies Pvt. Ltd. agency profile
+- A.R. Ansari leads the review and delivery process
+- Honest handling of capability and deliverable boundaries
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (quick-copy files)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28

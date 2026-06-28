@@ -1,0 +1,29 @@
+﻿Hello,
+
+We are Bluetrace Technologies Pvt. Ltd., led by A.R. Ansari with 25+ years of engineering experience in embedded systems, PCB review, and product delivery.
+
+We are applying for your project: PCB Designer for IoT Sensor Board.
+
+Why I am a strong fit:
+- nRF52840 and LoRa low-power PCB architecture review
+- Mixed-signal layout checks for RF, power, grounding, and noise control
+- Practical focus on 4-layer circular PCB layout and JLCPCB manufacturing readiness
+- DFM/DFT review, BOM sanity checks, and clear handover notes
+
+Proposed hourly engagement model:
+- Bid rate: USD 25 per hour
+- Contract type: Hourly
+- Expected capacity: less than 30 hours per week
+- Expected project duration: 1 to 3 months
+
+Execution plan:
+1) Review schematic, stack-up, constraints, and power budget
+2) Check floorplan, RF keepout, antenna region, and return paths
+3) Review layout for DFM, decoupling, impedance, and BOM/package issues
+4) Deliver clear correction notes and a JLCPCB-ready handoff checklist
+
+We can execute this as Bluetrace Technologies Pvt. Ltd. with weekly updates, clear review notes, and disciplined handover.
+
+Thanks,
+Bluetrace Technologies Pvt. Ltd.
+

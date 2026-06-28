@@ -1,0 +1,42 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- PCB Designer for IoT Sensor Board
+- Bid Rate: USD 25/hr
+- Duration: Hourly contract, less than 30 hrs/week
+
+Account Selection Guidance:
+- Submit via agency profile: Bluetrace Technologies Pvt. Ltd.
+- Delivery positioning: agency-led with A.R. Ansari as review lead
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: Schematic, stack-up, and power budget review - USD 500 - Week 1
+- Milestone 2: PCB floorplan, RF keepout, and mixed-signal layout plan - USD 700 - Week 2
+- Milestone 3: Layout refinement, DFM checks, and BOM/package validation - USD 600 - Weeks 3-4
+- Milestone 4: Final review notes, fab package, and JLCPCB readiness - USD 450 - Weeks 5-6
+
+3) Optional proposal boost:
+- Suggested boost bid: 3 Connects
+
+4) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+5) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports
+- Supporting credentials if needed
+
+6) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording align with job
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: A.R. Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
+
