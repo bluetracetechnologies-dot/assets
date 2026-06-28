@@ -1,0 +1,35 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- KiCad PCB Board Schema and Design
+- Budget: USD 25/hr
+- Duration: Hourly contract, less than 30 hrs/week
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: Schematic completion audit and layout constraint definition - USD 250 - Week 1
+- Milestone 2: Component placement and stack-up strategy for 100x80 mm board - USD 400 - Weeks 2-3
+- Milestone 3: Routing, power integrity checks, and interface validation - USD 450 - Weeks 4-6
+- Milestone 4: Manufacturing package generation and release handoff - USD 300 - Weeks 7-8
+
+3) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+4) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports (updated for KiCad PCB layout scope)
+- Supporting credentials if needed
+
+5) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording aligns to PCB design and manufacturing handoff
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: A.R. Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
+

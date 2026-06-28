@@ -1,0 +1,31 @@
+﻿Hello,
+
+I am applying for your project: KiCad PCB Board Schema and Design.
+
+We are applying as Bluetrace Technologies Pvt. Ltd. We bring 15+ years of embedded hardware delivery with strong experience in KiCad schematic completion, constrained PCB layout, and manufacturing-ready release packages.
+
+Why we are a strong fit:
+- Practical experience taking mostly-complete schematics through placement, routing, and fabrication handoff
+- Proven workflow for Raspberry Pi carrier-style boards with mixed interfaces and tight board envelope constraints
+- Strong design execution for UART-connected PN532 NFC paths and actuator-driver routing for rotary latch applications
+- DFM-oriented output quality: native KiCad source, Gerbers, drill data, fabrication notes, BOM, and pick-and-place
+
+Proposed delivery plan (Hourly, USD 25/hr, less than 30 hrs/week):
+- Milestone 1: Schematic completion audit and layout constraint definition - USD 250 - Week 1
+- Milestone 2: Component placement and stack-up strategy for 100x80 mm board - USD 400 - Weeks 2-3
+- Milestone 3: Routing, power integrity checks, and interface validation - USD 450 - Weeks 4-6
+- Milestone 4: Manufacturing package generation and release handoff - USD 300 - Weeks 7-8
+
+Estimated delivery window: 1 to 3 months.
+
+Execution notes aligned with your job:
+- Board target: approx. 100 x 80 mm, 2/4-layer carrier architecture
+- Integrations: Raspberry Pi 4 base, Southco R4-EM latch drive, PN532 over UART
+- Outcome: layout-complete, routable, and fabrication-ready KiCad package for manufacturing
+
+We can begin with a quick schematic sanity pass and stack-up decision, then proceed to placement/routing review checkpoints before final output release.
+
+Thanks,
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+

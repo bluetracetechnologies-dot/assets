@@ -1,0 +1,45 @@
+JOB REFERENCE
+
+Job Title:
+KICad PCB Board Schema and Design
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Electronic Engineering / PCB Design
+
+Contract Type:
+Hourly
+
+Bid Rate:
+USD 25/hr
+
+Project Length:
+1 to 3 months
+
+Core Scope:
+- Take mostly-complete schematic through placement, routing, and manufacturing output
+- Design approx. 100 x 80 mm, 2/4-layer Raspberry Pi 4 carrier board
+- Integrate Southco R4-EM rotary latch control path
+- Integrate PN532 NFC reader over UART
+- Deliver manufacturing-ready KiCad package and handoff files
+
+Proposal Positioning:
+- Submit via Bluetrace Technologies Pvt. Ltd. agency profile
+- A.R. Ansari leads technical review and delivery
+- Milestone-driven hourly execution with review checkpoints
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (quick-copy files)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
