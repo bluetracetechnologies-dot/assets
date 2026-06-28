@@ -1,0 +1,32 @@
+SCREENING QUESTION ANSWERS
+
+Q1) Can you show me 2-3 mobile apps you have personally built from MVP to launch, and explain exactly what your role was?
+
+Yes. I prefer to answer this transparently: some related projects were private/internal or architecture-led, so I do not claim public app-store links where I cannot verify them in interview.
+
+1) Smart School / Parent-Student App Concept
+Role: Product architecture, user flow planning, feature modeling, and implementation planning.
+Scope: Parent communication workflows, student status visibility, alerts, admin controls, and scalable backend direction.
+
+2) BLE Mobile Configuration and OTA Workflow
+Role: Mobile + embedded workflow architecture, BLE communication design, OTA update flow planning, and reliability strategy.
+Scope: Device configuration transfer, firmware update handling, and multi-controller update logic.
+
+3) Bluetrace Digital Product Platform
+Role: Product planning, system architecture, service workflow design, and delivery structure.
+Scope: Mobile-facing workflow planning, backend/API structure, automation pathways, and client delivery readiness.
+
+For your wellness app, I will apply the same MVP-to-launch method with clear role ownership across product flow, build execution, testing, and release support.
+
+Q2) Describe your recent experience with similar projects.
+
+Recent work has focused on mobile-connected systems, product architecture, backend/API planning, and user-focused MVP delivery.
+
+Relevant experience includes:
+- Onboarding, engagement, and notification-focused mobile workflows
+- BLE/mobile integration workflows for configuration and OTA update use cases
+- Product architecture for IoT, automation, and AI-enabled systems
+- Backend/data planning for scalable user records and recommendation logic
+- Privacy-aware design patterns and release-oriented quality gates
+
+For wellness products, my implementation focus is practical: keep daily check-ins simple, keep content access frictionless, and design recommendation logic to be useful and safe from day one.

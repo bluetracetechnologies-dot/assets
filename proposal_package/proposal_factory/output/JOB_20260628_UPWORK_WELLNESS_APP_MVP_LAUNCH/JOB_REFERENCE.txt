@@ -1,0 +1,47 @@
+JOB REFERENCE
+
+Job Title:
+Mobile App MVP to Launch - Wellness Platform
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Mobile App Development
+
+Contract Type:
+Fixed-price
+
+Budget Used in Proposal:
+USD 7,000
+
+Project Length:
+1 to 3 months
+
+Core Scope:
+- Wellness onboarding and goal setup
+- Daily mood tracking and history
+- Meditation/audio-video content library
+- Personalized recommendations
+- Notifications and analytics
+- Backend + admin/content panel
+- iOS and Android launch support
+
+Proposal Positioning:
+- Submit via freelancer profile
+- Deliver with Bluetrace engineering support capacity
+- Honest handling of private/internal project references
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (quick-copy files)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28

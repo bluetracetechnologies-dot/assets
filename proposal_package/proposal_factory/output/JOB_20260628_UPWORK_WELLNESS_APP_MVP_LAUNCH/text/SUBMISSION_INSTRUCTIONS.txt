@@ -1,0 +1,45 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- Mobile App MVP to Launch - Wellness Platform
+- Budget: USD 7000
+- Duration: 1 to 3 months
+
+Account Selection Guidance:
+- Preferred: submit via freelancer profile (stronger personal positioning + higher connects)
+- Delivery positioning: freelancer-led with Bluetrace engineering support
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: Discovery, UX flow, and wellness architecture - USD 900 - Week 1
+- Milestone 2: UI/UX design and clickable prototype - USD 1100 - Week 2
+- Milestone 3: Mobile MVP build with onboarding, mood tracking, and meditation library - USD 1700 - Weeks 3-4
+- Milestone 4: Backend, recommendations, admin/content panel - USD 1300 - Weeks 5-6
+- Milestone 5: Testing, analytics, notifications, and privacy hardening - USD 1000 - Week 7
+- Milestone 6: App Store and Play Store launch support - USD 1000 - Week 8
+
+3) Optional proposal boost:
+- Suggested boost bid: 3 Connects (if you want early rank position)
+
+4) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+5) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports
+- Supporting credentials if needed
+
+6) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording align with job
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+- Screening question responses avoid overclaiming public app links
+
+Prepared by: A.R. Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
+

@@ -1,0 +1,43 @@
+﻿Hello,
+
+I am A.R. Ansari, having 25+ years of experience, and since 2018 I have been working on IoT and software product systems.
+
+I can help you build this wellness app from MVP to launch for iOS and Android with a clean, calm product flow and production-ready delivery.
+
+For this project, I would start with product clarity before coding:
+1) onboarding and goal setup
+2) daily mood check-in and mood history
+3) meditation content library
+4) personalized recommendation flow
+5) reminders and engagement loop
+6) admin/content panel and launch pipeline
+
+Suggested stack:
+- Flutter or React Native
+- Firebase or Supabase backend
+- Admin dashboard for content and recommendation rules
+- App Store and Play Store release support
+
+Proposed milestone plan (USD 7,000):
+- M1: Discovery, UX flow, wellness architecture - USD 900 (Week 1)
+- M2: UI/UX design + clickable prototype - USD 1,100 (Week 2)
+- M3: Mobile MVP (onboarding, mood tracking, meditation library) - USD 1,700 (Weeks 3-4)
+- M4: Backend, recommendations, admin/content panel - USD 1,300 (Weeks 5-6)
+- M5: Testing, analytics, notifications, privacy hardening - USD 1,000 (Week 7)
+- M6: App Store + Play Store launch support - USD 1,000 (Week 8)
+
+Total: USD 7,000
+
+On your screening question about 2-3 apps personally built from MVP to launch: I prefer to be direct and honest. Some relevant projects were private/internal or architecture-led, so I do not overstate public app-store links where they are not available. I can clearly explain my exact role, product decisions, screen flows, backend structure, and delivery process in interview.
+
+Relevant work directions include:
+- Smart school/engagement app architecture and delivery planning
+- BLE mobile configuration and OTA workflow projects
+- Product architecture and implementation planning across mobile + backend systems
+
+I propose submitting from freelancer profile for stronger personal history, while delivering with Bluetrace engineering support behind me for execution capacity.
+
+Thanks,
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+
