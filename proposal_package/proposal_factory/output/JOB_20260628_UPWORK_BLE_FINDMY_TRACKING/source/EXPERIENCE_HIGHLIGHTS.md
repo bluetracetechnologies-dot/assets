@@ -10,6 +10,7 @@
 - Asset Tracking Prototype and connected device workflows
 - Hardware-software integration under rapid prototype cycles
 - Practical implementation of BLE beacon/tag design, Apple Find My accessory pathway, Google Find Hub compatibility, crowd-based location strategy
+- Delivered DALI-2 to BLE Mesh Gateway project with BLE network-oriented device behavior and field validation discipline
 
 ## Debug and Validation Practice
 - Oscilloscope, logic analyzer, JTAG, and GDB

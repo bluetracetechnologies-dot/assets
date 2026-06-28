@@ -24,6 +24,10 @@ Deliver a practical asset tracking prototype strategy and firmware baseline usin
 - Validation logs, test summary, and risks register
 - Handover documentation with recommended next steps
 
+## Relevant Prior Work
+- DALI-2 to BLE Mesh Gateway (Bluetrace portfolio project)
+- Applied BLE network behavior engineering, firmware stability controls, and deployment-oriented validation flow
+
 ## Commercial Baseline
 - Contract Type: Hourly
 - Bid Rate: USD 25 per hour

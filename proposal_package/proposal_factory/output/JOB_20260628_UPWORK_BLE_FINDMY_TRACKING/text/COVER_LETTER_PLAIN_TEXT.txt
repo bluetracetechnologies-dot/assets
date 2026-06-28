@@ -10,6 +10,10 @@ Why I am a strong fit:
 - Prototype-first validation approach with measurable checkpoints and risk visibility
 - Clear documentation and decision logs for fast iteration
 
+Relevant completed project:
+- DALI-2 to BLE Mesh Gateway for smart lighting control (production-oriented embedded integration)
+- Experience includes BLE network behavior, gateway-level firmware decisions, and robust field validation practices
+
 Proposed engagement model:
 - Contract Type: Hourly
 - Bid Rate: USD 25 per hour
