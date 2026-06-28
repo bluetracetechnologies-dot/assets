@@ -1,0 +1,44 @@
+JOB REFERENCE
+
+Job Title:
+Combine App Prototypes into One Working App
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Prototyping / App Integration
+
+Contract Type:
+Hourly
+
+Bid Rate:
+USD 25/hr
+
+Project Length:
+1 to 3 months
+
+Core Scope:
+- Merge a no-install HTML app with a mobile app and backend
+- Unify navigation, layout, and shared data model
+- Sync frontend state with backend data
+- Test, polish, and prepare release handoff
+
+Proposal Positioning:
+- Submit via Bluetrace Technologies Pvt. Ltd. agency profile
+- A.R. Ansari leads integration and delivery
+- Honest handling of private/internal prototype references
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (quick-copy files)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
