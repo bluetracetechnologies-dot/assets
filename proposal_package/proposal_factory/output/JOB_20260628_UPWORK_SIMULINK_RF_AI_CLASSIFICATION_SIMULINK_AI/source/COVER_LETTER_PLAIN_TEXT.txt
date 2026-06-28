@@ -1,0 +1,32 @@
+﻿Hello,
+
+I am applying for your project: Simulink RF Signal Processing and AI Classification.
+
+We are applying as Bluetrace Technologies Pvt. Ltd. with strong hands-on experience building Simulink-based signal chains and integrating ML-driven classification workflows for engineering decision systems.
+
+Why we are a strong fit:
+- Practical Simulink RF modeling experience: amplifier, filtering, modulation/demodulation, and channel modeling blocks
+- Strong signal-processing workflow design for feature extraction and robust pre-classification data conditioning
+- AI/ML integration experience using MATLAB/Simulink toolchains, including classifier integration and decision-output logic
+- Structured validation delivery with measurable classification performance reporting
+
+Proposed fixed-price plan (GBP 600, up to 3 months):
+- Milestone 1: System architecture definition and RF chain model baseline - GBP 150 - Weeks 1-2
+- Milestone 2: Signal processing pipeline and feature extraction implementation - GBP 180 - Weeks 3-5
+- Milestone 3: AI classifier integration and decision logic tuning - GBP 170 - Weeks 6-8
+- Milestone 4: Validation suite, performance report, and final handover - GBP 100 - Weeks 9-12
+
+Estimated delivery window: 1 to 3 months.
+
+Execution notes aligned with your scope:
+- Build complete RF chain in Simulink with reusable subsystem structure
+- Implement feature extraction path and classifier-ready dataset flow
+- Integrate AI classification block and decision logic outputs for downstream use
+- Deliver model, documentation, and validation evidence including performance metrics
+
+We can start with architecture freeze and dataset assumptions, then proceed via milestone checkpoints with measurable outputs at each stage.
+
+Thanks,
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+

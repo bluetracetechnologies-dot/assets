@@ -1,0 +1,35 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- Simulink RF Signal Processing and AI Classification
+- Budget: GBP 600
+- Duration: Fixed-price contract
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: System architecture definition and RF chain model baseline - GBP 150 - Weeks 1-2
+- Milestone 2: Signal processing pipeline and feature extraction implementation - GBP 180 - Weeks 3-5
+- Milestone 3: AI classifier integration and decision logic tuning - GBP 170 - Weeks 6-8
+- Milestone 4: Validation suite, performance report, and final handover - GBP 100 - Weeks 9-12
+
+3) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+4) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports (retargeted for Simulink RF + AI pipeline)
+- Supporting credentials if needed
+
+5) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording align with Simulink/RF/ML requirements
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: A.R. Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
+

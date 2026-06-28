@@ -1,0 +1,44 @@
+JOB REFERENCE
+
+Job Title:
+Simulink RF Signal Processing and AI Classification
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Machine Learning / Signal Processing
+
+Contract Type:
+Fixed-price
+
+Budget:
+GBP 600
+
+Project Length:
+1 to 3 months
+
+Core Scope:
+- Build bespoke RF chain in Simulink (amplifier, filtering, modulation/demodulation, channel)
+- Implement feature extraction stages for classifier-ready signals
+- Integrate AI/ML classifier and decision logic outputs
+- Validate and report classification performance with test evidence
+
+Proposal Positioning:
+- Submit via Bluetrace Technologies Pvt. Ltd. agency profile
+- A.R. Ansari leads model architecture and delivery quality
+- Milestone-based execution with collaborative requirement refinement
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (quick-copy files)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
