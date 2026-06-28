@@ -1,0 +1,43 @@
+JOB REFERENCE
+
+Job Title:
+KiCad PCB Layout - Low-Noise Mixed-Signal EEG Board (ADS1299 + ESP32)
+
+Platform:
+Upwork
+
+Posted:
+2026-06-26
+
+Category:
+Electronic Engineering
+
+Contract Type:
+Fixed-price (By milestone)
+
+Total Budget Used in Proposal:
+USD 750
+
+Project Length:
+1 to 3 months
+
+Core Scope:
+- KiCad PCB layout for low-noise mixed-signal EEG board
+- ADS1299 analog front-end quality layout controls
+- ESP32 integration and RF-aware constraints
+- Production-ready handoff package
+
+Additional Positioning:
+- Prior successful ESP32 deliveries
+- Practical project transition experience from Nordic-class pathways (nRF52 family) to ESP32 implementation where required
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (cover letter and submission instructions)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28

@@ -1,0 +1,35 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- KiCad PCB Layout - Low-Noise Mixed-Signal EEG Board (ADS1299 + ESP32)
+- Budget: USD 750
+- Duration: 1 to 3 months
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: Design review, constraints, and floorplanning - USD 180 - 1 week
+- Milestone 2: Core PCB layout with low-noise mixed-signal strategy - USD 280 - 2 weeks
+- Milestone 3: Routing refinement, DRC/ERC closure, and manufacturability prep - USD 190 - 1.5 weeks
+- Milestone 4: Final outputs, review package, and handover - USD 100 - 1 week
+
+3) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+4) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports
+- Supporting credentials if needed
+
+5) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording align with job
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: A.R. Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
+

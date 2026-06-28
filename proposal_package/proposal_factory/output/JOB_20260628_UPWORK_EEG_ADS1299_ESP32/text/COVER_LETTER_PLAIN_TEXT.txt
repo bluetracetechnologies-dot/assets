@@ -1,0 +1,28 @@
+﻿Hello,
+
+I am A.R. Ansari, having 25+ years of experience, and since 2018 I have been working on IoT systems.
+
+I am applying for your project: KiCad PCB Layout - Low-Noise Mixed-Signal EEG Board (ADS1299 + ESP32).
+
+I bring practical experience in mixed-signal embedded products and have already delivered multiple successful ESP32-based projects, including migration and adaptation paths from Nordic-class designs (nRF52 family) to ESP32 architectures where required.
+
+Why I am a strong fit:
+- Low-noise mixed-signal PCB layout practice for sensitive signal chains
+- ESP32-centered system integration with robust production handover discipline
+- Practical KiCad execution for routing, grounding, partitioning, and manufacturability
+- Clear technical communication with milestone-based evidence
+
+Proposed fixed-price plan (USD 750, 1 to 3 months):
+- Milestone 1: Design review, constraints, and floorplanning - USD 180 - 1 week
+- Milestone 2: Core PCB layout with low-noise mixed-signal strategy - USD 280 - 2 weeks
+- Milestone 3: Routing refinement, DRC/ERC closure, and manufacturability prep - USD 190 - 1.5 weeks
+- Milestone 4: Final outputs, review package, and handover - USD 100 - 1 week
+
+Estimated delivery window: 4 to 7 weeks.
+
+I can execute this as Bluetrace Technologies Pvt. Ltd. with weekly updates, milestone evidence, and clean final documentation.
+
+Thanks,
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+
