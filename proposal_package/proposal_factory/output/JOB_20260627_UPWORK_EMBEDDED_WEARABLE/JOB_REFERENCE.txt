@@ -1,0 +1,41 @@
+JOB REFERENCE
+
+Job Title:
+Senior Embedded Systems Engineer - ESP32 Wearable Device with PCB/PCBA and NFC
+
+Platform:
+Upwork
+
+Posted:
+2026-06-27
+
+Category:
+Embedded Systems / Wearable Device Development
+
+Contract Type:
+Fixed-price
+
+Budget:
+USD 2500
+
+Project Length:
+1 to 3 months
+
+Core Scope:
+- ESP32 firmware architecture and implementation
+- PCB/PCBA bring-up support for wearable hardware
+- NFC integration and system validation
+- Production handover package with documentation
+
+Proposal Positioning:
+- Submit via Bluetrace Technologies Pvt. Ltd. agency profile
+- Abdul Raheem Ansari leads architecture and delivery
+- Milestone-driven execution with evidence-based reporting
+
+Bundle Contents:
+- source/ (proposal docs)
+
+Prepared by:
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-27

@@ -1,0 +1,41 @@
+JOB REFERENCE
+
+Job Title:
+PCB Designer - Adapt ESP32-S3 Audio Dev Board into Custom Board
+
+Platform:
+Upwork
+
+Posted:
+2026-06-27
+
+Category:
+PCB Design / ESP32 Hardware Adaptation
+
+Contract Type:
+Hourly
+
+Bid Rate:
+USD 25/hr
+
+Project Length:
+Less than one month
+
+Core Scope:
+- Adapt ESP32-S3 audio dev board reference into custom PCB
+- Apply delete/keep/modify/add change-list across schematic and layout
+- Preserve audio signal integrity and robust power/ground routing
+- Deliver DFM-ready package and handover checklist
+
+Proposal Positioning:
+- Submit via Bluetrace Technologies Pvt. Ltd. agency profile
+- Abdul Raheem Ansari leads review and delivery
+- Structured review checkpoints and weekly progress updates
+
+Bundle Contents:
+- source/ (proposal docs)
+
+Prepared by:
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-27
