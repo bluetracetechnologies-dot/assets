@@ -1,0 +1,31 @@
+﻿Hello,
+
+I am applying for your project: PCB Modifications for nRF54 Board.
+
+We are applying as Bluetrace Technologies Pvt. Ltd. Our team brings 15+ years of embedded hardware delivery across Nordic BLE designs, low-power wearables, and production-ready KiCad handoff.
+
+Why we are a strong fit:
+- Proven experience adapting existing Nordic reference designs into compact product boards (not redesigning RF from scratch)
+- Practical mixed-signal layout discipline for low-current wearable targets with strict spacing and thickness constraints
+- Strong execution on USB-C + Li-ion charging, board-to-flex connectivity, and mechanical-envelope driven placement
+- Clean manufacturing handoff: editable KiCad source, Gerbers, drill/fab outputs, BOM/PnP, STEP, and height constraints
+
+Proposed fixed-price plan (USD 300, Fixed-price contract):
+- Milestone 1: Reference design audit, block pruning, and schematic modification plan - USD 90 - Days 1-2
+- Milestone 2: Schematic updates: sensor swap, I2C peripheral, LED, flex connectors, and charging path - USD 90 - Days 3-5
+- Milestone 3: Mechanical-envelope PCB placement and routing with RF keepout protection - USD 75 - Days 6-9
+- Milestone 4: Final DFM pass and manufacturing package (Gerber, drill, BOM/PnP, STEP, source) - USD 45 - Days 10-12
+
+Estimated delivery window: 10 to 12 days.
+
+Execution notes aligned with your brief:
+- We will preserve the proven RF/antenna section and keepout as-is
+- We will route around the RF zone while adapting the rest of the board for your compact wearable envelope
+- We will deliver design files only; sourcing, assembly, firmware, and certification remain with your team
+
+We can start immediately under NDA and provide review checkpoints at schematic gate and placement gate before final routing closeout.
+
+Thanks,
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+

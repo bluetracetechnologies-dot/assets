@@ -1,0 +1,46 @@
+JOB REFERENCE
+
+Job Title:
+PCB Modifications for nRF54 Board
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Electronic Engineering / PCB Design
+
+Contract Type:
+Fixed-price
+
+Bid Amount:
+USD 300
+
+Project Length:
+10 to 12 days
+
+Core Scope:
+- Adapt provided nRF54 reference KiCad design into a compact wearable board
+- Swap one sensor and add one I2C peripheral + indicator LED
+- Add board-to-flex connectors and remove unused design blocks
+- Preserve RF/antenna section and route around defined keepout
+- Optimize for thin form factor with USB-C charging and Li-ion power
+- Deliver editable KiCad source plus full manufacturing handoff package
+
+Proposal Positioning:
+- Submit via Bluetrace Technologies Pvt. Ltd. agency profile
+- A.R. Ansari leads architecture review and PCB delivery execution
+- Design-only engagement aligned with client-owned sourcing, assembly, firmware, and certification
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (quick-copy files)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28

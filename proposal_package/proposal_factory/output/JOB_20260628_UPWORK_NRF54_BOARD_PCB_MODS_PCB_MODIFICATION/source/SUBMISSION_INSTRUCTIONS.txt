@@ -1,0 +1,35 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- PCB Modifications for nRF54 Board
+- Budget: USD 300
+- Duration: Fixed-price contract
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: Reference design audit, block pruning, and schematic modification plan - USD 90 - Days 1-2
+- Milestone 2: Schematic updates: sensor swap, I2C peripheral, LED, flex connectors, and charging path - USD 90 - Days 3-5
+- Milestone 3: Mechanical-envelope PCB placement and routing with RF keepout protection - USD 75 - Days 6-9
+- Milestone 4: Final DFM pass and manufacturing package (Gerber, drill, BOM/PnP, STEP, source) - USD 45 - Days 10-12
+
+3) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+4) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports (retargeted for nRF54 PCB modification scope)
+- Supporting credentials if needed
+
+5) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording align with design-only engagement
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: A.R. Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
+
