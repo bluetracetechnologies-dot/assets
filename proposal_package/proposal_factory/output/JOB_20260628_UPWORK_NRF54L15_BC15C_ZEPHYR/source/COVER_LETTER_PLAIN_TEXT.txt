@@ -1,0 +1,32 @@
+﻿Hello,
+
+I am applying for your project: Nordic nRF54L15, Fanstel BC15C and Zephyr - HW/FW Production Readiness.
+
+I bring 15+ years of embedded systems experience across BLE hardware/firmware co-development, production bring-up, and RTOS-based optimization workflows.
+
+Why I am a strong fit:
+- nRF and BLE-centric board/firmware review for performance, stability, and manufacturability
+- Practical Zephyr firmware optimization with clean module-level traceability
+- Production-readiness focus for JLCPCB constraints and pre-production prototype cycles
+- Clear technical communication, weekly progress visibility, and handover discipline
+
+Proposed engagement model:
+- Contract Type: Hourly
+- Bid Rate: USD 25 per hour
+- Weekly Capacity: less than 30 hours per week
+- Project Duration: less than 1 month
+
+Estimated delivery window: 2 to 4 weeks.
+
+Execution flow:
+1) Audit existing PCB and firmware baseline with prioritized findings
+2) Implement PCB and HW design improvements for production constraints
+3) Optimize Zephyr firmware behavior and stabilize integration
+4) Deliver pre-production package, test evidence, and handover notes
+
+I can execute this as Bluetrace Technologies Pvt. Ltd. with weekly updates, milestone evidence, and clean final documentation.
+
+Thanks,
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+

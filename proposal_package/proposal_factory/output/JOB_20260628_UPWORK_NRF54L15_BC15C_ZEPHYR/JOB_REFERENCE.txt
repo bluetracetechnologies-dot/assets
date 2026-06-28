@@ -1,0 +1,39 @@
+JOB REFERENCE
+
+Job Title:
+Nordic nRF54L15, Fanstel BC15C and Zephyr
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Firmware Development / HW-FW Engineering
+
+Contract Type:
+Hourly
+
+Rate Used in Proposal:
+USD 25/hr
+
+Project Length:
+Less than 1 month
+
+Core Scope:
+- Review and improve existing PCB and firmware
+- Prepare design for production at JLCPCB
+- Support pre-production prototypes
+- Optimize firmware on Zephyr RTOS
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (cover letter and submission instructions)
+
+Prepared by:
+Abdul Raheem Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
