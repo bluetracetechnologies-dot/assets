@@ -1,10 +1,10 @@
 ﻿Hello,
 
-I am A.R. Ansari, having 25+ years of experience, and since 2018 I have been working on IoT and software product systems.
+We are Bluetrace Technologies Pvt. Ltd., led by A.R. Ansari with 25+ years of engineering experience and product delivery leadership across IoT and software systems.
 
-I can help you build this wellness app from MVP to launch for iOS and Android with a clean, calm product flow and production-ready delivery.
+We can help you build this wellness app from MVP to launch for iOS and Android with a clean product flow, disciplined execution, and production-ready delivery.
 
-For this project, I would start with product clarity before coding:
+For this project, we would start with product clarity before coding:
 1) onboarding and goal setup
 2) daily mood check-in and mood history
 3) meditation content library
@@ -28,14 +28,14 @@ Proposed milestone plan (USD 7,000):
 
 Total: USD 7,000
 
-On your screening question about 2-3 apps personally built from MVP to launch: I prefer to be direct and honest. Some relevant projects were private/internal or architecture-led, so I do not overstate public app-store links where they are not available. I can clearly explain my exact role, product decisions, screen flows, backend structure, and delivery process in interview.
+On your screening question about 2-3 apps built from MVP to launch: we prefer to be direct and honest. Some relevant projects were private/internal or architecture-led, so we do not overstate public app-store links where they are not available. In interview, we can explain the exact delivery role, product decisions, screen flows, backend structure, and release process.
 
 Relevant work directions include:
 - Smart school/engagement app architecture and delivery planning
 - BLE mobile configuration and OTA workflow projects
 - Product architecture and implementation planning across mobile + backend systems
 
-I propose submitting from freelancer profile for stronger personal history, while delivering with Bluetrace engineering support behind me for execution capacity.
+This proposal is being submitted as Bluetrace Technologies Pvt. Ltd., with A.R. Ansari leading delivery and Bluetrace engineering support behind the build, QA, backend, and launch workflow.
 
 Thanks,
 A.R. Ansari
