@@ -1,0 +1,39 @@
+JOB REFERENCE
+
+Job Title:
+Hello, I need an experienced hardware engineer in India to assemble an IoT device.
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Electronic Engineering
+
+Contract Type:
+Hourly
+
+Rate Used in Proposal:
+USD 25/hr
+
+Project Length:
+Less than a month
+
+Core Scope:
+- 2-unit IoT device assembly
+- Unit 1 controller box with Raspberry Pi Zero 2W
+- LiPo battery circuit and charging module wiring
+- Bring-up, power-path validation, and assembly QA
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (cover letter and submission instructions)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28

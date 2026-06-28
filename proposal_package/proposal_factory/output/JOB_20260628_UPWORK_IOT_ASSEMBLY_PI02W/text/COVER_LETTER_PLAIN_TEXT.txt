@@ -1,0 +1,28 @@
+﻿Hello,
+
+I am A.R. Ansari, having 25+ years of experience, and since 2018 I have been working on IoT systems.
+
+I am applying for your project: Hardware Engineer in India for IoT Device Assembly (Raspberry Pi Zero 2W + ESP32).
+
+I bring practical experience in IoT hardware assembly, power wiring validation, controller bring-up, and firmware-assisted hardware debugging.
+
+Why I am a strong fit:
+- Raspberry Pi Zero 2W and ESP32 integration with real-world assembly constraints
+- LiPo and charging-path wiring discipline with safety-first validation flow
+- Bring-up and functional verification for multi-unit IoT assemblies
+- Clear engineering communication and reliable handover notes
+
+Proposed engagement model:
+- Contract Type: Hourly
+- Bid Rate: USD 25 per hour
+- Weekly Capacity: less than 30 hours per week
+- Project Duration: less than a month
+
+Estimated delivery window: 2 to 4 weeks.
+
+I can execute this as Bluetrace Technologies Pvt. Ltd. with weekly updates, assembly evidence, and clean final documentation.
+
+Thanks,
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+
