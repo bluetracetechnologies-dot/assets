@@ -1,0 +1,45 @@
+JOB REFERENCE
+
+Job Title:
+Embedded Firmware Engineer for Low-Power BLE Device with Wake Word Detection
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Firmware Development
+
+Contract Type:
+Hourly
+
+Bid Rate Used in Proposal:
+USD 25 per hour
+
+Project Length:
+Less than a month
+
+Core Scope:
+- Wake word detection integration path
+- BLE communication and event handling
+- Microphone support
+- LED and buzzer control
+- Low-power operation and battery optimization
+
+Delivery Focus:
+- RTOS-oriented firmware architecture
+- Power-state tuning and validation
+- Structured weekly reporting and clean handover
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (cover letter and submission instructions)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28

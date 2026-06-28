@@ -1,0 +1,32 @@
+﻿Hello,
+
+I am A.R. Ansari, having 25+ years of experience, and since 2018 I have been working on IoT systems.
+
+I am applying for your project: Embedded Firmware Engineer for Low-Power BLE Device with Wake Word Detection.
+
+I can support end-to-end firmware execution for your battery-powered BLE product, including wake-word flow integration, microphone pipeline handling, BLE communication, LED and buzzer control, and low-power battery optimization.
+
+Why I am a strong fit:
+- Embedded C/C++ and RTOS-based firmware delivery across production-focused projects
+- Practical BLE architecture, event-driven state machine design, and robust bring-up
+- Low-power strategy implementation: sleep states, wake paths, and current profiling
+- Clear weekly reporting, test evidence, and clean handover documentation
+
+Proposed engagement model:
+- Contract Type: Hourly
+- Bid Rate: USD 25 per hour
+- Project Duration: Less than a month
+- Execution Window: 3 to 4 weeks (based on current scope)
+
+Execution phases:
+1) Firmware architecture and wake-word pipeline planning
+2) BLE integration with microphone capture and event routing
+3) Low-power optimization plus LED/buzzer behavior validation
+4) Final stabilization, documentation, and handover
+
+I can execute this as Bluetrace Technologies Pvt. Ltd. with disciplined engineering updates and reliable delivery.
+
+Thanks,
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+
