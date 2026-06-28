@@ -1,0 +1,35 @@
+﻿PROPOSAL SUBMISSION INSTRUCTIONS
+
+Job Reference:
+- Electronics Engineer needed
+- Budget: USD 5
+- Duration: One-time project
+
+1) Paste source/COVER_LETTER_PLAIN_TEXT.txt into Upwork cover letter.
+
+2) Configure milestones in Upwork:
+- Milestone 1: Requirement and concept review for ATTINY1616 + 8 LED + 3xAA power architecture - USD 1 - 0.5 to 1 day
+- Milestone 2: Schematic and BOM review with correction notes - USD 2 - 1 day
+- Milestone 3: PCB review and DFM checks in EasyEDA or KiCad - USD 1 - 0.5 to 1 day
+- Milestone 4: Finalized package summary and Gerber readiness checklist - USD 1 - 0.5 day
+
+3) Convert these files to PDF:
+- PROJECT_SUMMARY.md
+- EXPERIENCE_HIGHLIGHTS.md
+- TECHNICAL_REQUIREMENTS_CHECKLIST.md
+
+4) Attach to proposal:
+- Three PDFs
+- Relevant architecture diagram exports
+- Supporting credentials if needed
+
+5) Final quality gate:
+- Budget and milestones match exactly
+- Duration matches job post
+- Role and scope wording align with ATTINY1616 LED board review scope
+- Metadata values are updated (Doc ID/Version/Revision/Date)
+
+Prepared by: A.R. Ansari
+Company: Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
+

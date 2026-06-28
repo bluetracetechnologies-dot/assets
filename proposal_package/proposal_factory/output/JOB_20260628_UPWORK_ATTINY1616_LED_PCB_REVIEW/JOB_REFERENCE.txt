@@ -1,0 +1,46 @@
+JOB REFERENCE
+
+Job Title:
+Electronics Engineer needed
+
+Platform:
+Upwork
+
+Posted:
+2026-06-28
+
+Category:
+Electronic Engineering
+
+Contract Type:
+Fixed-price
+
+Budget Used in Proposal:
+USD 5
+
+Project Type:
+One-time project
+
+Core Scope:
+- Detailed concept review
+- Schematic review and finalization
+- PCB review and finalization
+- BOM review
+- Gerber readiness verification
+- Preferred tools: EasyEDA or KiCad
+
+Hardware Context:
+- ATTINY1616 controlled LED board
+- 8 LEDs
+- Power source: 3xAA batteries
+
+Bundle Contents:
+- source/ (proposal docs)
+- diagrams/ (.drawio architecture files)
+- pdfs/ (diagram PDFs)
+- text/ (cover letter and submission instructions)
+
+Prepared by:
+A.R. Ansari
+Bluetrace Technologies Pvt. Ltd.
+Date: 2026-06-28
